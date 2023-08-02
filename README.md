@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Kazuto](https://github-readme-stats.vercel.app/api/top-langs/?username=devkazuto&layout=compact)
+![Kazuto](https://github-readme-stats.vercel.app/api?username=devkazuto&show_icons=true&bg_color=00000000&rank_icon=github)
