@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/devkazuto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devkazuto&show_icons=true&bg_color=00000000&rank_icon=github" />
-</a>
-<a href="https://github.com/devkazuto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkazuto&layout=compact" />
-</a>
+
+| <a href="https://github.com/devkazuto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devkazuto&show_icons=true&bg_color=00000000&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devkazuto&layout=compact" /></a> |
+| ------------- | ------------- |
 
