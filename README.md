@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/devkazuto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devkazuto&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/devkazuto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkazuto&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/devkazuto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devkazuto&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/devkazuto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkazuto&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
