@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">📊 GitHub Stats</h3>
 
-| <a href="https://github.com/devkazuto"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devkazuto&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/devkazuto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkazuto&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devkazuto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkazuto&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
