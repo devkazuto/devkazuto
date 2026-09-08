@@ -4,8 +4,8 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=devkazuto&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=devkazuto&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devkazuto&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=devkazuto&theme=dracula&hide_border=true" height="150" />
 </p>
 
 ---
