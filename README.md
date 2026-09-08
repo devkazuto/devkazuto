@@ -4,12 +4,13 @@
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td valign="top" width="55%">
+    <td width="33%">
       <img src="https://github-readme-stats.shion.dev/api?username=devkazuto&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
-      <br/>
+    </td>
+    <td width="33%">
       <img src="https://streak-stats.demolab.com/?user=devkazuto&theme=dracula&hide_border=false" width="100%"/>
     </td>
-    <td valign="top" width="45%">
+    <td width="33%">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devkazuto&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
     </td>
   </tr>
